@@ -140,10 +140,6 @@ const wordList = [
     word: "photo",
     hint: "representation of person or scene",
   },
-  {
-    word: "tinubu",
-    hint: "balablue",
-  },
 ];
 
 
